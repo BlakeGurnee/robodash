@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > ### Unmaintenance mode
-> This project WILL recieve further feature updates as I contiune on this project started by the devloper.
+> This project WILL receive further feature updates as I continue on this project started by unwieldycat - the developer.
 
 # robodash
 
