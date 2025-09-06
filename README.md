@@ -4,7 +4,7 @@
 
 # robodash
 
-![Latest Release](https://img.shields.io/github/v/release/unwieldycat/robodash)
+![Latest Release](https://img.shields.io/github/v/release/BlakeGurnee/robodash)
 ![License](https://img.shields.io/github/license/unwieldycat/robodash)
 ![Stars](https://img.shields.io/github/stars/unwieldycat/robodash)
 
